@@ -1,4 +1,4 @@
-## Hi 👋, I am Ceren Kaya Akgün, an AI Engineer & NLP Enthusiast based in Berlin
+## Hi 👋, I am Ceren Kaya Akgün, an AI Automation Engineer & LLM Enthusiast based in Berlin
 
 [![GitHub followers](https://img.shields.io/github/followers/ckakgun?label=Followers&style=social)](https://github.com/ckakgun?tab=followers)
 
