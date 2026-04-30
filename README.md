@@ -1,23 +1,28 @@
-## Hi 👋, I am Ceren Kaya Akgün, an AI Automation Engineer & LLM Enthusiast based in Berlin
-
+# Hi 👋, I am Ceren Kaya Akgün — AI Automation Engineer & Builder in Berlin
+ 
 [![GitHub followers](https://img.shields.io/github/followers/ckakgun?label=Followers&style=social)](https://github.com/ckakgun?tab=followers)
-
-#### Now
-
-- 🔥 Building heym.run — Self-hosted AI workflow automation with agents, RAG, and MCP @heym
-- ✨ Working on **FlavorBot** — Recipe recommendation chatbot with LLM guardrails
-- ⚡ Developing **JobMatch-AI** — NLP-powered job matching using semantic embeddings
-- 🤖 Building **DocQuery RAG** — Automated RAG pipeline with n8n and OpenAI
-- 📈 Freelancing in AI/ML engineering, workflow automation, and chatbot development
-- 🌟 Open for AI Engineer roles and collaboration opportunities
+[![Medium](https://img.shields.io/badge/Medium-%40cerenkaya07-black?style=flat-square&logo=medium)](https://medium.com/@cerenkaya07)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-cerenkayaakgun-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/cerenkayaakgun/)
+ 
+---
+ 
+## 🔥 Currently Building
+ 
+**[heym.run](https://heym.run)** — Self-hosted AI workflow automation with agents, RAG, and MCP  
+*Co-founder & Builder | Focus on Agentic systems & intelligent automation*
+ 
+**[socialcraftly.com](https://socialcraftly.com)** — Intelligent social media management  
+*Building the next generation of AI-powered content strategy tools*
+ 
+---
 
 #### Bio
 
 - 🏢 Currently **Freelancing** — AI & ML Projects
-- ⚙️ Daily Driver: `.py`, `.js`, `.sql`, n8n, LangChain
+- ⚙️ Daily Driver: `.py`, `.js`, `.sql`, and automation tool especially heym.run
 - 🌍 Active in the **AI/ML Community**; sharing learnings on Medium
 - 🌱 Continuously learning about **Multi-Agent Systems**, **RAG**, **Prompt Engineering**, and **LLM Security**
-- 💬 Ping me about **LLM Applications**, **NLP**, **Chatbots**, **n8n Workflows**, **RAG Systems**, **Python**, **AI Agents**, and more
+- 💬 Ping me about **LLM Applications**, **NLP**, **Chatbots**, **Automation Workflows**, **RAG Systems**, **Python**, **AI Agents**, and more
 
 #### Development Stuffs
 
