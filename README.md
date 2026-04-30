@@ -4,7 +4,7 @@
 
 #### Now
 
-- 🔥 Building intelligent systems with **LLMs**, **NLP**, and **Agentic AI**
+- 🔥 Building heym.run — Self-hosted AI workflow automation with agents, RAG, and MCP @heym
 - ✨ Working on **FlavorBot** — Recipe recommendation chatbot with LLM guardrails
 - ⚡ Developing **JobMatch-AI** — NLP-powered job matching using semantic embeddings
 - 🤖 Building **DocQuery RAG** — Automated RAG pipeline with n8n and OpenAI
