@@ -1,4 +1,7 @@
-# Hi 👋, I am Ceren Kaya Akgün — AI Automation Engineer & Builder in Berlin
+# Hi, I’m Ceren Kaya Akgün
+Founding Engineer at [Heym](https://heym.run), building a source-available, self-hosted AI-native workflow automation platform for agents, RAG, MCP, HITL, traces, evals, and production automation.
+
+I work on AI workflow orchestration, agentic systems, RAG pipelines, LLM observability, and practical AI products.
  
 [![GitHub followers](https://img.shields.io/github/followers/ckakgun?label=Followers&style=social)](https://github.com/ckakgun?tab=followers)
 [![Medium](https://img.shields.io/badge/Medium-%40cerenkaya07-black?style=flat-square&logo=medium)](https://medium.com/@cerenkaya07)
@@ -13,8 +16,16 @@
  
 **[socialcraftly.com](https://socialcraftly.com)** — Intelligent social media management  
 *Building the next generation of AI-powered content strategy tools*
- 
----
+
+#### Focus areas
+
+- AI workflow automation
+- Multi-agent systems
+- RAG and document intelligence
+- MCP and tool calling
+- LLM observability and evals
+- Self-hosted AI infrastructure
+- Python, TypeScript, LangChain, vector databases, automation systems
 
 #### Bio
 
